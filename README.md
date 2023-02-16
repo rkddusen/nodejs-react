@@ -17,14 +17,14 @@ And create server.js file and route directory in server directory
 ## Install
 
 You have to run this:./
-# `npm install express`./
-# `npm install http-proxy-middleware`./
-# `npm install concurrently`./
-# `npm install cors`./
-# `npm install axios`./
+### `npm install express`./
+### `npm install http-proxy-middleware`./
+### `npm install concurrently`./
+### `npm install cors`./
+### `npm install axios`./
 
 if you want nodemon, you can run this:./
-# `npm install nodemon`./
+### `npm install nodemon`./
 
 ## package.json
 
