@@ -16,29 +16,41 @@ And create server.js file and route directory in server directory
 
 ## Install
 
-You have to run this:./
-### `npm install express`./
-### `npm install http-proxy-middleware`./
-### `npm install concurrently`./
-### `npm install cors`./
-### `npm install axios`./
+You have to run this:
 
-if you want nodemon, you can run this:./
-### `npm install nodemon`./
+### `npm install express`
+
+### `npm install http-proxy-middleware`
+
+### `npm install concurrently`
+
+### `npm install cors`
+
+### `npm install axios`
+
+
+if you want nodemon, you can run this:
+
+### `npm install nodemon`
 
 ## package.json
 
 you have to change package.json : "scripts" part
 
-`"server": "nodemon ./server/server.js",`./
-`"client": "npm run start",`./
-`"dev": "concurrently --kill-others-on-fail \"npm run server\" \"npm run client\"",`./
+`"server": "nodemon ./server/server.js",`
+
+`"client": "npm run start",`
+
+`"dev": "concurrently --kill-others-on-fail \"npm run server\" \"npm run client\"",`
 
 ## Edit
 
-server/server.js./
-server/route/index.js./
-src/setupProxy./
+server/server.js
+
+server/route/index.js
+
+src/setupProxy
+
 src/App.js
 
 ## Run
