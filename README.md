@@ -59,4 +59,4 @@ you can run:
 
 ### `npm run dev`
 
-you can find result in `client` 'localhos:3000' and `server` 'localhost:3001'
+you can find result in `client` 'localhost:3000' and `server` 'localhost:3001'
